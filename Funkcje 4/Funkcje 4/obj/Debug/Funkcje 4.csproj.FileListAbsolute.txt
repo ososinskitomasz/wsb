@@ -1,0 +1,5 @@
+C:\Users\tecee\source\repos\Funkcje 4\Funkcje 4\bin\Debug\Funkcje 4.exe.config
+C:\Users\tecee\source\repos\Funkcje 4\Funkcje 4\bin\Debug\Funkcje 4.exe
+C:\Users\tecee\source\repos\Funkcje 4\Funkcje 4\bin\Debug\Funkcje 4.pdb
+C:\Users\tecee\source\repos\Funkcje 4\Funkcje 4\obj\Debug\Funkcje 4.exe
+C:\Users\tecee\source\repos\Funkcje 4\Funkcje 4\obj\Debug\Funkcje 4.pdb

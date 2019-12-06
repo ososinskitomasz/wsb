@@ -1,0 +1,6 @@
+C:\Users\tecee\source\repos\Pętle\Pętle\obj\Debug\Pętle.csprojAssemblyReference.cache
+C:\Users\tecee\source\repos\Pętle\Pętle\bin\Debug\Pętle.exe.config
+C:\Users\tecee\source\repos\Pętle\Pętle\bin\Debug\Pętle.exe
+C:\Users\tecee\source\repos\Pętle\Pętle\bin\Debug\Pętle.pdb
+C:\Users\tecee\source\repos\Pętle\Pętle\obj\Debug\Pętle.exe
+C:\Users\tecee\source\repos\Pętle\Pętle\obj\Debug\Pętle.pdb

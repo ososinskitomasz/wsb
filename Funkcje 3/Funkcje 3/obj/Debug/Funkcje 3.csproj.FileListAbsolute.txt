@@ -1,0 +1,6 @@
+C:\Users\tecee\source\repos\Funkcje 3\Funkcje 3\bin\Debug\Funkcje 3.exe.config
+C:\Users\tecee\source\repos\Funkcje 3\Funkcje 3\bin\Debug\Funkcje 3.exe
+C:\Users\tecee\source\repos\Funkcje 3\Funkcje 3\bin\Debug\Funkcje 3.pdb
+C:\Users\tecee\source\repos\Funkcje 3\Funkcje 3\obj\Debug\Funkcje 3.csprojAssemblyReference.cache
+C:\Users\tecee\source\repos\Funkcje 3\Funkcje 3\obj\Debug\Funkcje 3.exe
+C:\Users\tecee\source\repos\Funkcje 3\Funkcje 3\obj\Debug\Funkcje 3.pdb

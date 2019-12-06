@@ -1,0 +1,6 @@
+C:\Users\tecee\source\repos\Modyfikatory dostępu\Modyfikatory dostępu\bin\Debug\Modyfikatory dostępu.exe.config
+C:\Users\tecee\source\repos\Modyfikatory dostępu\Modyfikatory dostępu\bin\Debug\Modyfikatory dostępu.exe
+C:\Users\tecee\source\repos\Modyfikatory dostępu\Modyfikatory dostępu\bin\Debug\Modyfikatory dostępu.pdb
+C:\Users\tecee\source\repos\Modyfikatory dostępu\Modyfikatory dostępu\obj\Debug\Modyfikatory dostępu.csprojAssemblyReference.cache
+C:\Users\tecee\source\repos\Modyfikatory dostępu\Modyfikatory dostępu\obj\Debug\Modyfikatory dostępu.exe
+C:\Users\tecee\source\repos\Modyfikatory dostępu\Modyfikatory dostępu\obj\Debug\Modyfikatory dostępu.pdb

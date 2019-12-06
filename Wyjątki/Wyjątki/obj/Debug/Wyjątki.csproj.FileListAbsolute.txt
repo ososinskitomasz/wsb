@@ -1,0 +1,6 @@
+C:\Users\tecee\source\repos\Wyjątki\Wyjątki\obj\Debug\Wyjątki.csprojAssemblyReference.cache
+C:\Users\tecee\source\repos\Wyjątki\Wyjątki\bin\Debug\Wyjątki.exe.config
+C:\Users\tecee\source\repos\Wyjątki\Wyjątki\bin\Debug\Wyjątki.exe
+C:\Users\tecee\source\repos\Wyjątki\Wyjątki\bin\Debug\Wyjątki.pdb
+C:\Users\tecee\source\repos\Wyjątki\Wyjątki\obj\Debug\Wyjątki.exe
+C:\Users\tecee\source\repos\Wyjątki\Wyjątki\obj\Debug\Wyjątki.pdb

@@ -1,0 +1,6 @@
+C:\Users\tecee\source\repos\23.11.2019\23.11.2019\bin\Debug\23.11.2019.exe.config
+C:\Users\tecee\source\repos\23.11.2019\23.11.2019\bin\Debug\23.11.2019.exe
+C:\Users\tecee\source\repos\23.11.2019\23.11.2019\bin\Debug\23.11.2019.pdb
+C:\Users\tecee\source\repos\23.11.2019\23.11.2019\obj\Debug\23.11.2019.csprojAssemblyReference.cache
+C:\Users\tecee\source\repos\23.11.2019\23.11.2019\obj\Debug\23.11.2019.exe
+C:\Users\tecee\source\repos\23.11.2019\23.11.2019\obj\Debug\23.11.2019.pdb

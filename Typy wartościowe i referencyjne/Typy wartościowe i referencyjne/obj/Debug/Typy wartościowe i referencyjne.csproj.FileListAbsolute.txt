@@ -1,0 +1,6 @@
+C:\Users\tecee\source\repos\Typy wartościowe i referencyjne\Typy wartościowe i referencyjne\bin\Debug\Typy wartościowe i referencyjne.exe.config
+C:\Users\tecee\source\repos\Typy wartościowe i referencyjne\Typy wartościowe i referencyjne\bin\Debug\Typy wartościowe i referencyjne.exe
+C:\Users\tecee\source\repos\Typy wartościowe i referencyjne\Typy wartościowe i referencyjne\bin\Debug\Typy wartościowe i referencyjne.pdb
+C:\Users\tecee\source\repos\Typy wartościowe i referencyjne\Typy wartościowe i referencyjne\obj\Debug\Typy wartościowe i referencyjne.csprojAssemblyReference.cache
+C:\Users\tecee\source\repos\Typy wartościowe i referencyjne\Typy wartościowe i referencyjne\obj\Debug\Typy wartościowe i referencyjne.exe
+C:\Users\tecee\source\repos\Typy wartościowe i referencyjne\Typy wartościowe i referencyjne\obj\Debug\Typy wartościowe i referencyjne.pdb

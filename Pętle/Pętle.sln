@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pętle", "Pętle\Pętle.csproj", "{E7DBA653-2216-4CE8-98DC-2775CCCE3BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DBA653-2216-4CE8-98DC-2775CCCE3BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DBA653-2216-4CE8-98DC-2775CCCE3BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DBA653-2216-4CE8-98DC-2775CCCE3BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DBA653-2216-4CE8-98DC-2775CCCE3BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2646A2A-A9BC-4B0C-AA6D-BCF669333E5B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\tecee\source\repos\Funkcje\Funkcje\bin\Debug\Funkcje.exe.config
+C:\Users\tecee\source\repos\Funkcje\Funkcje\bin\Debug\Funkcje.exe
+C:\Users\tecee\source\repos\Funkcje\Funkcje\bin\Debug\Funkcje.pdb
+C:\Users\tecee\source\repos\Funkcje\Funkcje\obj\Debug\Funkcje.csprojAssemblyReference.cache
+C:\Users\tecee\source\repos\Funkcje\Funkcje\obj\Debug\Funkcje.exe
+C:\Users\tecee\source\repos\Funkcje\Funkcje\obj\Debug\Funkcje.pdb
