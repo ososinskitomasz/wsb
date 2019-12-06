@@ -11,6 +11,8 @@ namespace PA05_POT
         static void Main(string[] args)
         {
             //Dla danych dwóch liczb naturalnych a i b, wyznaczyć ostatnią cyfrę liczby a^b.
+            //https://pl.spoj.com/problems/PA05_POT/
+
             /*Console.WriteLine("Ile razy wykonać obliczenie a^b oraz wyświetlić jego wynik i ostatnią jego cyfrę: ");
             int p = Console.Read();
 
