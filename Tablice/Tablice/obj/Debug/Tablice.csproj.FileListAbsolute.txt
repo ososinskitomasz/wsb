@@ -1,1 +1,7 @@
 C:\Users\tecee\source\repos\Tablice\Tablice\obj\Debug\Tablice.csprojAssemblyReference.cache
+C:\Users\tecee\Documents\GitHub\ososinskitomasz\wsb\Tablice\Tablice\bin\Debug\Tablice.exe.config
+C:\Users\tecee\Documents\GitHub\ososinskitomasz\wsb\Tablice\Tablice\bin\Debug\Tablice.exe
+C:\Users\tecee\Documents\GitHub\ososinskitomasz\wsb\Tablice\Tablice\bin\Debug\Tablice.pdb
+C:\Users\tecee\Documents\GitHub\ososinskitomasz\wsb\Tablice\Tablice\obj\Debug\Tablice.csprojAssemblyReference.cache
+C:\Users\tecee\Documents\GitHub\ososinskitomasz\wsb\Tablice\Tablice\obj\Debug\Tablice.exe
+C:\Users\tecee\Documents\GitHub\ososinskitomasz\wsb\Tablice\Tablice\obj\Debug\Tablice.pdb
