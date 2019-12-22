@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Funkcje_2
 {
@@ -15,6 +11,26 @@ namespace Funkcje_2
              * Napisz funkcję, która przyjmuje jako argument liczbę całkowitą podaną przez użytkownika z klawiatury.
              * Zabezpiecz program przed błędnie podanymi danymi z klawiatury.
              */
+
+            Console.WriteLine("Podaj x: ");
+
+            try
+            {
+                Liczba(0);
+            }
+            catch (SystemException blad)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(blad);
+                Console.ResetColor();
+            }
+
+            Console.ReadKey();
+        }
+
+        static void Liczba(uint x)
+        {
+
         }
     }
 }

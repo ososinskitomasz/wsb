@@ -177,8 +177,7 @@ namespace Tomasz_Ososiński___08._12._2019___Kolokwium
 
                         break;
                     case 0:
-                        break; ;
-
+                        break;
                 }
 
                 if (x == 0)
